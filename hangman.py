@@ -140,3 +140,5 @@ while True:
         if( controlgame(state)):
             break
         
+#hangman hi
+        
